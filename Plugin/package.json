@@ -1,0 +1,20 @@
+{
+  "name": "com.soundsense.editor",
+  "version": "0.1.0",
+  "displayName": "SoundSense - Audio Term Lookup",
+  "description": "Offline audio terminology reference for Unity developers. Look up 150+ game audio terms, get import advice, and explore concepts — all inside the Unity Editor.",
+  "unity": "2021.3",
+  "author": {
+    "name": "SoundSense",
+    "url": "https://github.com/SoundSense"
+  },
+  "keywords": [
+    "audio",
+    "sound",
+    "reference",
+    "learning",
+    "game-audio"
+  ],
+  "license": "MIT",
+  "type": "tool"
+}
